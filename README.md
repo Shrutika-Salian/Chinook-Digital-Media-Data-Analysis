@@ -1,6 +1,6 @@
 <b>#Chinook Data Warehouse modelling & Analysis</b>
 
-About the Chinook database
+About the Chinook database:
 The Chinook data model represents a digital media store, including tables for artists, albums, media tracks, invoices, and customers.
 
 Media-related data was created using real data from an Apple iTunes library.
