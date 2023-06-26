@@ -22,5 +22,7 @@ Tasks performed:
   5. Employee Details: Name, Birthday, Hiredate, Years of working at company, Address, City, 
      State, Country, Title, Manager and Manager's Title
   6. Total sales by Employee's Age at the time of Invoice Date
-  7. Total sales by employees in their 30s, 40s 50s & 60s
+  7. Total sales by employees in their 30s, 40s 50s & 60s</br> 
+ 
+Link to Dashboard: https://tinyurl.com/data-analysis-chinook
 
