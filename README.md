@@ -9,7 +9,13 @@ About the Chinook database:</br>
 The Chinook sample database includes:</br> 
  - 11 tables</br> 
  - A variety of indexes, primary and foreign key constraints</br> 
- - Over 15,000 rows of data</br> 
+ - Over 15,000 rows of data</br>
+ 
+Data Model:
+<img width="977" alt="image" src="https://github.com/Shrutika-Salian/Chinook-Digital-Media-Data-Analysis/assets/91072559/ac1a86bc-3bd3-496d-b8b7-7afbc49a58ce">
+
+Data Warehouse:
+
 
 Tasks performed:
 - Reverse Engineering of Database to design a new Data Warehouse
@@ -22,7 +28,8 @@ Tasks performed:
   5. Employee Details: Name, Birthday, Hiredate, Years of working at company, Address, City, 
      State, Country, Title, Manager and Manager's Title
   6. Total sales by Employee's Age at the time of Invoice Date
-  7. Total sales by employees in their 30s, 40s 50s & 60s</br> 
+  7. Total sales by employees in their 30s, 40s 50s & 60s</br>
+ 
  
 Link to Dashboard: https://tinyurl.com/data-analysis-chinook
 
