@@ -1,4 +1,4 @@
-#Chinook Data Warehouse modelling & Analysis
+<b>#Chinook Data Warehouse modelling & Analysis</b>
 
 About the Chinook database
 The Chinook data model represents a digital media store, including tables for artists, albums, media tracks, invoices, and customers.
